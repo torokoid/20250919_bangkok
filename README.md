@@ -261,7 +261,7 @@ p.note { display: none; }
 <h2><span class="yellow">店の外にはおこぼれ待ちの野良犬、店員さんが残り物あげてます</span></h2>
 <a href="20250919_046.JPG" target="_blank"><img src="20250919_046.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">かなり満腹ですが、2人でこの値段は役4,600円弱</span></h2>
+<h2><span class="yellow">かなり満腹ですが、2人でこの値段は約4,600円弱</span></h2>
 <a href="20250919_047.JPG" target="_blank"><img src="20250919_047.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250919_048.JPG" target="_blank"><img src="20250919_048.JPG" alt="サンプル画像" class="responsive-media"></a>
     
