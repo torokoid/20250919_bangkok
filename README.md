@@ -269,7 +269,7 @@ p.note { display: none; }
 <a href="20250919_049.JPG" target="_blank"><img src="20250919_049.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250919_050.JPG" target="_blank"><img src="20250919_050.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">忘れないように地図貼ります<br>クリックでGoogle Mapsが開きます↓</span></h2>
+<h2><span class="yellow">忘れないように地図貼ります<br>「Googleマップで見る」をクリックでGoogle Mapsが開きます↓</span></h2>
 <div class="youtube-wrapper">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1758283724089!6m8!1m7!1scYKnqgkZPzLXawpyl8BCdQ!2m2!1d12.86167722716052!2d100.895246186612!3f113.4520299183986!4f-3.612605585467122!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
@@ -325,7 +325,7 @@ p.note { display: none; }
 <h2><span class="yellow">一泊でこちらは引き上げてバンコクに戻ります</span></h2>
 <a href="20250919_074.JPG" target="_blank"><img src="20250919_074.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">こちらも忘れないように地図貼ります<br>クリックでGoogle Mapsが開きます↓</span></h2>
+<h2><span class="yellow">こちらも忘れないように地図貼ります<br>「Googleマップで見る」クリックでGoogle Mapsが開きます↓</span></h2>
 <div class="youtube-wrapper">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1758284637690!6m8!1m7!1s3PcPWWm9TWgurfvD-vVhbQ!2m2!1d12.85950037837771!2d100.8997695316108!3f93.41671500051784!4f15.049938459340552!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div> 
