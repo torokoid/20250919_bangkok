@@ -345,8 +345,8 @@ p.note { display: none; }
 <a href="20250919_080.JPG" target="_blank"><img src="20250919_080.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">アマチュア無線の仕組みで移動経路を記録しました</span></h2>
-<a href="20250919_081.JPG" target="_blank"><img src="20250919_081.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250919_082.JPG" target="_blank"><img src="20250919_082.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250919_081.jpg" target="_blank"><img src="20250919_081.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250919_082.png" target="_blank"><img src="20250919_082.png" alt="サンプル画像" class="responsive-media"></a>
 
 <br><br><br><br><br><br><br><br><br>
 
