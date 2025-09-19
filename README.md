@@ -212,6 +212,8 @@ p.note { display: none; }
     
 <h2><span class="yellow">パタヤまでの長距離移動では、ここから高速料金が発生するので通行券をもらいます</span></h2>
 <a href="20250919_020.JPG" target="_blank"><img src="20250919_020.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">バンコクからちょっと離れれば、周囲は農村エリア</span></h2>
 <a href="20250919_021.JPG" target="_blank"><img src="20250919_021.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">タイ人特有？この車種にリアウイングつけてます</span></h2>
